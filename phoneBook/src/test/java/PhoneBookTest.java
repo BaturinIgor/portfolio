@@ -15,7 +15,7 @@ public class PhoneBookTest {
     @Before
     public void setUp() {
         /*НЕОБХОДИМО ЗАМЕНИТЬ ПУТЬ ДО CHROMEDRIVER.EXE*/
-        System.setProperty("webdriver.chrome.driver", "C:/Program Files/chrome driver/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 
         ChromeOptions options = new ChromeOptions();
         options.setHeadless(true);
