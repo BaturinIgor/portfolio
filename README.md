@@ -1,3 +1,2 @@
 Список тротестированнх сервисов:
-1. Локальный сайт телефонной книжки PhoneBook (Java/Selenium/JUnit);
-2. 
+1. Локальный сайт телефонной книжки PhoneBook (Java/Selenium/JUnit)
